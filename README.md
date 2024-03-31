@@ -5,7 +5,7 @@
 This project guides you in building an end-to-end data engineering pipeline. It covers data ingestion, processing, and storage using Apache Airflow, Kafka, Spark, and Cassandra, all containerized with Docker for easy deployment.
 System Architecture
 
-### Components:
+### Components
 
     Data Source: randomuser.me API
     Apache Airflow: Orchestrates and stores data in PostgreSQL.
